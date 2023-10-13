@@ -1,0 +1,9 @@
+{
+    "notifications": [{
+        "id": "1",
+        "title": "Special: 50% off GitKraken tools",
+        "description": "1st and 2nd seats only $4/mo each",
+        "trigger": ["trial"]
+    }],
+    "version": 1
+}
