@@ -1,8 +1,8 @@
 {
     "notifications": [{
         "id": "1",
-        "title": "Special: 50% off GitKraken tools",
-        "description": "1st and 2nd seats only $4/mo each",
+        "title": "Limited-time Sale",
+        "description": "Save 33% or more on your 1st seat of GitKraken Pro",
         "trigger": ["trial"]
     }],
     "version": 1
